@@ -182,28 +182,27 @@ class SleepApp extends App.AppBase {
             sendHRData(current_heartrate);
         }
 
-        //     hrCount = hrCount + 1;
-        //     log("hrcount + 1");
+        hrCount = hrCount + 1;
+        log("hrcount + 1");
 
-        //     if (hrCurrentlyReading == true) {
-        //         hrValue = hrValue + sensor_info.heartRate;
-        //         log("HR read, hrValue: " + hrValue);
-        //     }
+        if (hrCurrentlyReading == true) {
+            hrValue = hrValue + sensor_info.heartRate;
+            log("HR read, hrValue: " + hrValue);
+        }
 
-        //     if ( (hrCount >= HR_ON_COUNT) && (hrCurrentlyReading == true) ) {
-        //             log("switching off HR read");
-        //             hrCurrentlyReading = false;
-        //             sendHRData(hrValue/hrCount);
-        //             hrValue = 0;
-        //             log("sending HR data: " + hrValue);
-        //     }
+        if ( (hrCount >= HR_ON_COUNT) && (hrCurrentlyReading == true) ) {
+                log("switching off HR read");
+                hrCurrentlyReading = false;
+                sendHRData(hrValue/hrCount);
+                hrValue = 0;
+                log("sending HR data: " + hrValue);
+        }
 
-        //     if ( hrCount >= HR_MAX_COUNT ) {
-        //         log("hrloop restart");
-        //         hrCount = 0;
-        //         hrCurrentlyReading = true;
-        //     }
-        // }
+        if ( hrCount >= HR_MAX_COUNT ) {
+            log("hrloop restart");
+            hrCount = 0;
+            hrCurrentlyReading = true;
+        }
     }
 
     // Main timer loop - here we gather data from sensors, check for alarms and ring them, and send messages to phone
@@ -312,10 +311,10 @@ class SleepApp extends App.AppBase {
         } else if ( mail.find("StopAlarm;") == 0 ) {
             stopAlarm();
         } else if ( mail.equals("StartHRTracking")) {
-            // Sensor.enableSensorEvents( method(:onHr) );
-            // Sensor.setEnabledSensors( [Sensor.SENSOR_HEARTRATE] );
-            // hrTracking = true;
-            // hrCurrentlyReading = true;
+            Sensor.enableSensorEvents( method(:onHr) );
+            Sensor.setEnabledSensors( [Sensor.SENSOR_HEARTRATE] );
+            hrTracking = true;
+            hrCurrentlyReading = true;
 
         } else if ( mail.equals("StartTracking")) {
 
@@ -352,31 +351,31 @@ class SleepApp extends App.AppBase {
 
     function gatherHR(hrInfo) {
         if (hrTracking == true) {
-        // log("has nonnull heartrate: " + hrInfo.heartRate);
+            log("has nonnull heartrate: " + hrInfo.heartRate);
             if ( hrInfo has :heartRate && hrInfo.heartRate != null ) {
 
                 hrCount = hrCount + 1;
-                // log(hrCount);
+                log(hrCount);
                 if (beta == true) {
 	                current_heartrate = hrInfo.heartRate;
 	            }
 
                 if (hrCurrentlyReading == true) {
-                    // log("hrinfo, heartrate" + hrInfo + " " +hrInfo.heartRate);
+                    log("hrinfo, heartrate" + hrInfo + " " +hrInfo.heartRate);
     	            hrValue = hrValue + hrInfo.heartRate;
                 }
 
                 if ( (hrCount >= HR_ON_COUNT) && (hrCurrentlyReading == true) ) {
- 					// log("hrinfo, heartrate" + hrInfo + " " +hrInfo.heartRate);
-    	            // log("switching off HR read");
+ 					log("hrinfo, heartrate" + hrInfo + " " +hrInfo.heartRate);
+    	            log("switching off HR read");
                     hrCurrentlyReading = false;
-                    // Sensor.setEnabledSensors([]); // disables heart rate sensor
+                    Sensor.setEnabledSensors([]); // disables heart rate sensor
                     sendHRData(hrValue/hrCount);
                     hrValue = 0;
                 }
 
                 if ( hrCount >= HR_MAX_COUNT) {
-                    // log("hrloop restart");
+                    log("hrloop restart");
                     hrCount = 0;
                     hrCurrentlyReading = true;
                 }
@@ -393,7 +392,7 @@ class SleepApp extends App.AppBase {
 
     function checkIfAlarmScheduledForNow() {
         if (now == scheduled_alarm_ts) {
-            StartAlarm();
+            startAlarm();
         }
     }
 
@@ -472,7 +471,7 @@ class SleepApp extends App.AppBase {
     function store_max(currentValues) {
 
         if (last) {
-        	//log("x" + currentValues[0] + "y" + currentValues[1] + "z" + currentValues[2]);
+        	log("x" + currentValues[0] + "y" + currentValues[1] + "z" + currentValues[2]);
             var sum = ((lastValues[0] - currentValues[0]).abs() + (lastValues[1] - currentValues[1]).abs() + (lastValues[2] - currentValues[2]).abs());
             var sum_new = Math.floor(Math.sqrt((currentValues[0] * currentValues[0]) + (currentValues[1] * currentValues[1]) + (currentValues[2] * currentValues[2]))).toNumber();
 
@@ -495,9 +494,8 @@ class SleepApp extends App.AppBase {
     function onStop(state) {
     	phoneCommMethod = null;
 		log("onStop");
-        // messageQueue = null;
         betalog("usedMem" + Sys.getSystemStats().usedMemory + "freeMem" + Sys.getSystemStats().freeMemory + "totalMem" + Sys.getSystemStats().totalMemory);
-		// messageQueue = null;
+		messageQueue = null;
     }
 
     //! Return the initial view of your application here

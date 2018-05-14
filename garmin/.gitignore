@@ -5,3 +5,5 @@ properties.mk
 Release.key
 TODO_
 Known issues
+*.prg
+*debug.xml

@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmMenuDelegate.mc" lineNum="7" pc="268435456" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmMenuDelegate.mc" lineNum="8" pc="268435460" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmMenuDelegate.mc" lineNum="11" pc="268435479" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmMenuDelegate.mc" lineNum="12" pc="268435483" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmMenuDelegate.mc" lineNum="13" pc="268435494" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmMenuDelegate.mc" lineNum="14" pc="268435509" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmMenuDelegate.mc" lineNum="15" pc="268435520" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmDelegate.mc" lineNum="5" pc="268435536" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmDelegate.mc" lineNum="6" pc="268435540" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmDelegate.mc" lineNum="9" pc="268435559" symbol="onMenu"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmDelegate.mc" lineNum="10" pc="268435563" symbol="onMenu"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmDelegate.mc" lineNum="11" pc="268435647" symbol="onMenu"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmDelegate.mc" lineNum="14" pc="268435651" symbol="onBack"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmDelegate.mc" lineNum="15" pc="268435655" symbol="onBack"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepDelegate.mc" lineNum="5" pc="268435659" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepDelegate.mc" lineNum="6" pc="268435663" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepDelegate.mc" lineNum="9" pc="268435682" symbol="onMenu"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepDelegate.mc" lineNum="10" pc="268435686" symbol="onMenu"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepDelegate.mc" lineNum="11" pc="268435770" symbol="onMenu"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepDelegate.mc" lineNum="14" pc="268435774" symbol="onBack"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepDelegate.mc" lineNum="15" pc="268435778" symbol="onBack"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="13" pc="268435782" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="14" pc="268435786" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="17" pc="268435805" symbol="onLayout"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="19" pc="268435809" symbol="onLayout"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="25" pc="268435839" symbol="onShow"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="26" pc="268435843" symbol="onShow"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="30" pc="268435854" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="31" pc="268435858" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="32" pc="268435877" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="33" pc="268435896" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="34" pc="268435932" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="35" pc="268435944" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="37" pc="268435980" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="46" pc="268436065" symbol="onHide"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="47" pc="268436069" symbol="onHide"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="48" pc="268436082" symbol="onHide"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="50" pc="268436094" symbol="onHide"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="51" pc="268436107" symbol="onHide"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="53" pc="268436119" symbol="onHide"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="54" pc="268436132" symbol="onHide"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="56" pc="268436144" symbol="onHide"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepAlarmView.mc" lineNum="57" pc="268436157" symbol="onHide"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="12" pc="268436170" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="13" pc="268436174" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="16" pc="268436193" symbol="onLayout"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="17" pc="268436197" symbol="onLayout"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="18" pc="268436234" symbol="onLayout"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="24" pc="268436264" symbol="onShow"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="29" pc="268436269" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="30" pc="268436273" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="31" pc="268436292" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="32" pc="268436311" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="33" pc="268436347" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="34" pc="268436359" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="37" pc="268436395" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="39" pc="268436419" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="40" pc="268436497" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="41" pc="268436511" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="43" pc="268436595" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="44" pc="268436619" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="46" pc="268436639" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="47" pc="268436702" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="48" pc="268436716" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="52" pc="268436800" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="53" pc="268436863" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="54" pc="268436877" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="56" pc="268436961" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="58" pc="268436985" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="59" pc="268437057" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="60" pc="268437071" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="64" pc="268437155" symbol="onUpdate"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="71" pc="268437228" symbol="onHide"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="72" pc="268437232" symbol="onHide"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepView.mc" lineNum="73" pc="268437245" symbol="onHide"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="41" pc="268437258" symbol="log"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="42" pc="268437270" symbol="log"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="43" pc="268437284" symbol="log"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="44" pc="268437316" symbol="log"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="48" pc="268437353" symbol="betalog"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="49" pc="268437365" symbol="betalog"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="50" pc="268437379" symbol="betalog"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="51" pc="268437411" symbol="betalog"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="56" pc="268437448" symbol="enqueue"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="57" pc="268437460" symbol="enqueue"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="58" pc="268437511" symbol="enqueue"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="60" pc="268437550" symbol="enqueue"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="61" pc="268437576" symbol="enqueue"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="64" pc="268437596" symbol="enqueue"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="65" pc="268437665" symbol="enqueue"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="66" pc="268437730" symbol="enqueue"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="70" pc="268437765" symbol="enqueue"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="71" pc="268437793" symbol="enqueue"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="77" pc="268437817" symbol="sendResumeTracking"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="78" pc="268437829" symbol="sendResumeTracking"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="81" pc="268437847" symbol="sendPauseTracking"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="82" pc="268437859" symbol="sendPauseTracking"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="85" pc="268437877" symbol="sendStopTracking"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="86" pc="268437889" symbol="sendStopTracking"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="89" pc="268437907" symbol="sendDismissAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="90" pc="268437919" symbol="sendDismissAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="93" pc="268437937" symbol="sendSnoozeAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="94" pc="268437949" symbol="sendSnoozeAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="97" pc="268437967" symbol="sendConfirmConnection"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="98" pc="268437979" symbol="sendConfirmConnection"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="148" pc="268437997" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="149" pc="268438001" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="151" pc="268438019" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="152" pc="268438043" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="153" pc="268438058" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="155" pc="268438085" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="159" pc="268438108" symbol="onMsg"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="160" pc="268438112" symbol="onMsg"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="164" pc="268438142" symbol="onStart"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="165" pc="268438146" symbol="onStart"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="166" pc="268438163" symbol="onStart"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="167" pc="268438197" symbol="onStart"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="168" pc="268438241" symbol="onStart"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="169" pc="268438253" symbol="onStart"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="170" pc="268438276" symbol="onStart"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="172" pc="268438333" symbol="onStart"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="175" pc="268438349" symbol="onStart"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="175" pc="268438363" symbol="onStart"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="178" pc="268438389" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="180" pc="268438393" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="181" pc="268438406" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="182" pc="268438422" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="185" pc="268438445" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="186" pc="268438467" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="188" pc="268438484" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="189" pc="268438498" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="190" pc="268438523" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="193" pc="268438552" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="194" pc="268438589" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="195" pc="268438606" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="196" pc="268438616" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="197" pc="268438645" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="198" pc="268438658" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="201" pc="268438687" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="202" pc="268438707" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="203" pc="268438724" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="204" pc="268438737" symbol="onHr"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="209" pc="268438751" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="210" pc="268438755" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="211" pc="268438778" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="212" pc="268438835" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="213" pc="268438858" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="216" pc="268438877" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="218" pc="268438900" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="220" pc="268438919" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="221" pc="268438936" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="223" pc="268438958" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="225" pc="268438981" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="226" pc="268439001" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="229" pc="268439017" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="231" pc="268439037" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="232" pc="268439048" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="233" pc="268439067" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="234" pc="268439084" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="235" pc="268439098" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="237" pc="268439173" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="238" pc="268439193" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="239" pc="268439205" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="240" pc="268439242" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="241" pc="268439259" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="243" pc="268439275" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="244" pc="268439291" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="247" pc="268439310" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="250" pc="268439338" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="252" pc="268439350" symbol="timerCallback"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="257" pc="268439363" symbol="sendStartingTracking"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="258" pc="268439367" symbol="sendStartingTracking"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="260" pc="268439385" symbol="sendCurrentDataAndResetBatch"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="261" pc="268439389" symbol="sendCurrentDataAndResetBatch"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="262" pc="268439435" symbol="sendCurrentDataAndResetBatch"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="263" pc="268439481" symbol="sendCurrentDataAndResetBatch"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="264" pc="268439507" symbol="sendCurrentDataAndResetBatch"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="265" pc="268439521" symbol="sendCurrentDataAndResetBatch"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="268" pc="268439535" symbol="sendCurrentDataAndResetBatch"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="269" pc="268439549" symbol="sendCurrentDataAndResetBatch"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="273" pc="268439567" symbol="sendHRData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="274" pc="268439571" symbol="sendHRData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="275" pc="268439602" symbol="sendHRData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="279" pc="268439617" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="280" pc="268439621" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="281" pc="268439621" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="284" pc="268439641" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="286" pc="268439680" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="287" pc="268439699" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="288" pc="268439718" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="289" pc="268439733" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="291" pc="268439758" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="294" pc="268439785" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="295" pc="268439810" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="296" pc="268439834" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="297" pc="268439851" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="298" pc="268439876" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="299" pc="268439900" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="300" pc="268439917" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="301" pc="268439942" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="302" pc="268439972" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="303" pc="268439989" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="305" pc="268440002" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="307" pc="268440012" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="308" pc="268440027" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="309" pc="268440052" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="310" pc="268440076" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="311" pc="268440093" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="312" pc="268440118" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="313" pc="268440133" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="314" pc="268440152" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="315" pc="268440184" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="316" pc="268440226" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="317" pc="268440236" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="319" pc="268440249" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="323" pc="268440271" symbol="handleIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="327" pc="268440301" symbol="extractDataFromIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="328" pc="268440305" symbol="extractDataFromIncomingMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="331" pc="268440351" symbol="gatherData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="332" pc="268440355" symbol="gatherData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="333" pc="268440382" symbol="gatherData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="335" pc="268440402" symbol="gatherData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="336" pc="268440422" symbol="gatherData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="337" pc="268440448" symbol="gatherData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="338" pc="268440474" symbol="gatherData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="339" pc="268440487" symbol="gatherData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="340" pc="268440500" symbol="gatherData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="343" pc="268440516" symbol="gatherData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="344" pc="268440545" symbol="gatherData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="347" pc="268440560" symbol="gatherData"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="352" pc="268440583" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="353" pc="268440587" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="354" pc="268440601" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="355" pc="268440627" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="357" pc="268440654" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="358" pc="268440676" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="359" pc="268440696" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="360" pc="268440710" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="363" pc="268440729" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="364" pc="268440743" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="365" pc="268440778" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="368" pc="268440806" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="369" pc="268440843" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="370" pc="268440878" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="371" pc="268440895" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="372" pc="268440905" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="373" pc="268440927" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="374" pc="268440956" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="377" pc="268440972" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="378" pc="268440992" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="379" pc="268441009" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="380" pc="268441022" symbol="gatherHR"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="387" pc="268441042" symbol="setBatchSize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="388" pc="268441046" symbol="setBatchSize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="389" pc="268441075" symbol="setBatchSize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="390" pc="268441085" symbol="setBatchSize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="393" pc="268441098" symbol="checkIfAlarmScheduledForNow"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="394" pc="268441102" symbol="checkIfAlarmScheduledForNow"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="395" pc="268441122" symbol="checkIfAlarmScheduledForNow"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="399" pc="268441138" symbol="setAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="400" pc="268441142" symbol="setAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="401" pc="268441171" symbol="setAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="404" pc="268441182" symbol="startAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="405" pc="268441186" symbol="startAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="406" pc="268441196" symbol="startAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="407" pc="268441209" symbol="startAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="408" pc="268441222" symbol="startAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="411" pc="268441239" symbol="ringAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="412" pc="268441243" symbol="ringAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="413" pc="268441257" symbol="ringAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="414" pc="268441272" symbol="ringAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="416" pc="268441299" symbol="ringAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="417" pc="268441314" symbol="ringAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="424" pc="268441342" symbol="doHint"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="425" pc="268441346" symbol="doHint"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="427" pc="268441381" symbol="doHint"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="428" pc="268441392" symbol="doHint"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="430" pc="268441402" symbol="doHint"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="432" pc="268441437" symbol="doHint"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="433" pc="268441452" symbol="doHint"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="434" pc="268441460" symbol="doHint"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="435" pc="268441475" symbol="doHint"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="436" pc="268441523" symbol="doHint"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="438" pc="268441584" symbol="doHint"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="439" pc="268441605" symbol="doHint"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="440" pc="268441620" symbol="doHint"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="441" pc="268441635" symbol="doHint"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="446" pc="268441673" symbol="stopAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="447" pc="268441677" symbol="stopAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="448" pc="268441687" symbol="stopAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="449" pc="268441759" symbol="stopAlarm"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="452" pc="268441770" symbol="sendNextMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="453" pc="268441774" symbol="sendNextMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="454" pc="268441794" symbol="sendNextMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="455" pc="268441813" symbol="sendNextMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="456" pc="268441833" symbol="sendNextMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="457" pc="268441846" symbol="sendNextMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="459" pc="268441865" symbol="sendNextMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="460" pc="268441933" symbol="sendNextMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="461" pc="268441949" symbol="sendNextMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="462" pc="268441959" symbol="sendNextMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="463" pc="268441973" symbol="sendNextMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="464" pc="268441993" symbol="sendNextMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="466" pc="268442030" symbol="sendNextMessage"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="471" pc="268442077" symbol="store_max"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="473" pc="268442081" symbol="store_max"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="474" pc="268442092" symbol="store_max"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="475" pc="268442148" symbol="store_max"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="476" pc="268442248" symbol="store_max"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="478" pc="268442342" symbol="store_max"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="479" pc="268442356" symbol="store_max"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="481" pc="268442369" symbol="store_max"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="482" pc="268442383" symbol="store_max"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="487" pc="268442399" symbol="store_max"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="488" pc="268442409" symbol="store_max"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="489" pc="268442431" symbol="store_max"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="490" pc="268442453" symbol="store_max"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="494" pc="268442476" symbol="onStop"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="495" pc="268442480" symbol="onStop"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="496" pc="268442489" symbol="onStop"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="497" pc="268442506" symbol="onStop"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="498" pc="268442601" symbol="onStop"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="502" pc="268442611" symbol="getInitialView"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepApp.mc" lineNum="503" pc="268442615" symbol="getInitialView"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="7" pc="268442683" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="8" pc="268442687" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="11" pc="268442706" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="12" pc="268442710" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="13" pc="268442721" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="14" pc="268442736" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="15" pc="268442747" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="16" pc="268442762" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="19" pc="268442773" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="20" pc="268442812" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="26" pc="268442864" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="27" pc="268442877" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="28" pc="268442888" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="29" pc="268442905" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="30" pc="268442944" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepMenuDelegate.mc" lineNum="32" pc="268442996" symbol="onMenuItem"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepListener.mc" lineNum="8" pc="268443016" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepListener.mc" lineNum="9" pc="268443020" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepListener.mc" lineNum="10" pc="268443042" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepListener.mc" lineNum="13" pc="268443053" symbol="onComplete"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepListener.mc" lineNum="15" pc="268443057" symbol="onComplete"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepListener.mc" lineNum="16" pc="268443083" symbol="onComplete"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepListener.mc" lineNum="22" pc="268443094" symbol="onError"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepListener.mc" lineNum="24" pc="268443098" symbol="onError"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepListener.mc" lineNum="25" pc="268443108" symbol="onError"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepListener.mc" lineNum="26" pc="268443127" symbol="onError"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepNowListener.mc" lineNum="8" pc="268443154" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepNowListener.mc" lineNum="9" pc="268443158" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepNowListener.mc" lineNum="10" pc="268443180" symbol="initialize"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepNowListener.mc" lineNum="13" pc="268443191" symbol="onComplete"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepNowListener.mc" lineNum="15" pc="268443195" symbol="onComplete"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepNowListener.mc" lineNum="18" pc="268443222" symbol="onError"/>
+<entry filename="D:\\eclipse\\eclipse-workspace\\Sleep-as-Android-Garmin-Addon\\garmin\\source\\SleepNowListener.mc" lineNum="20" pc="268443226" symbol="onError"/>
+<entry filename="D:\\Aliaksei\\Desktop\\Rez" lineNum="19" pc="268443253" symbol="initialize"/>
+<entry filename="D:\\Aliaksei\\Desktop\\Rez" lineNum="20" pc="268443257" symbol="initialize"/>
+<entry filename="D:\\Aliaksei\\Desktop\\Rez" lineNum="21" pc="268443275" symbol="initialize"/>
+<entry filename="D:\\Aliaksei\\Desktop\\Rez" lineNum="22" pc="268443327" symbol="initialize"/>
+<entry filename="D:\\Aliaksei\\Desktop\\Rez" lineNum="32" pc="268443380" symbol="initialize"/>
+<entry filename="D:\\Aliaksei\\Desktop\\Rez" lineNum="33" pc="268443384" symbol="initialize"/>
+<entry filename="D:\\Aliaksei\\Desktop\\Rez" lineNum="34" pc="268443402" symbol="initialize"/>
+<entry filename="D:\\Aliaksei\\Desktop\\Rez" lineNum="35" pc="268443454" symbol="initialize"/>
+<entry filename="D:\\Aliaksei\\Desktop\\Rez" lineNum="36" pc="268443506" symbol="initialize"/>
+<entry filename="D:\\Aliaksei\\Desktop\\Rez" lineNum="37" pc="268443558" symbol="initialize"/>
+<entry filename="D:\\Aliaksei\\Desktop\\Rez" lineNum="56" pc="268443611" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="8389793" method="true" symbol="debug"/>
+<entry id="91" method="true" symbol="onHr"/>
+<entry field="true" id="59" symbol="bkg_alarm"/>
+<entry field="true" id="63" symbol="MAX_AGG_COUNT"/>
+<entry id="8388987" method="true" symbol="vibrate"/>
+<entry id="8388899" method="true" symbol="log"/>
+<entry id="11" object="true" symbol="SleepDelegate"/>
+<entry field="true" id="79" symbol="vibrateOnAlarm"/>
+<entry field="true" id="78" symbol="alarm_gap_duration_current"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="69" symbol="HR_ON_COUNT"/>
+<entry field="true" id="83" symbol="max_sum"/>
+<entry field="true" id="68" symbol="delay"/>
+<entry field="true" id="80" symbol="shortPulse"/>
+<entry field="true" id="71" symbol="hrCurrentlyReading"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="48" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388643" module="true" symbol="Sensor"/>
+<entry id="98" method="true" symbol="gatherData"/>
+<entry id="33" method="true" symbol="sendPauseTracking"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="44" symbol="id_bkg_night"/>
+<entry id="110" symbol="item_alarm_2"/>
+<entry id="109" symbol="item_alarm_1"/>
+<entry field="true" id="20" symbol="logtimestamp"/>
+<entry id="94" method="true" symbol="sendCurrentDataAndResetBatch"/>
+<entry field="true" id="66" symbol="listener"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="10" object="true" symbol="SleepAlarmDelegate"/>
+<entry id="49" method="true" symbol="MainLayout"/>
+<entry field="true" id="22" symbol="deliveryInProgress"/>
+<entry field="true" id="86" symbol="batchSize"/>
+<entry field="true" id="50" symbol="alarm_menu_label_2"/>
+<entry field="true" id="51" symbol="alarm_menu_label_1"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="67" symbol="scheduled_alarm_ts"/>
+<entry field="true" id="64" symbol="phoneCommMethod"/>
+<entry field="true" id="45" symbol="id_bkg_alarm"/>
+<entry id="102" method="true" symbol="setAlarm"/>
+<entry id="90" method="true" symbol="onMsg"/>
+<entry id="8388636" module="true" symbol="Attention"/>
+<entry id="9" object="true" symbol="SleepAlarmMenuDelegate"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="84" symbol="currentMax"/>
+<entry field="true" id="85" symbol="aggCount"/>
+<entry field="true" id="56" symbol="AppName"/>
+<entry field="true" id="70" symbol="HR_MAX_COUNT"/>
+<entry field="true" id="8388922" method="true" symbol="now"/>
+<entry id="13" object="true" symbol="SleepView"/>
+<entry field="true" id="58" symbol="shape"/>
+<entry field="true" id="8389605" symbol="accel"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="12" object="true" symbol="SleepAlarmView"/>
+<entry field="true" id="28" symbol="exitTapped"/>
+<entry id="32" method="true" symbol="sendResumeTracking"/>
+<entry field="true" id="76" symbol="stopAppDelay"/>
+<entry id="114" symbol="item_4"/>
+<entry id="113" symbol="item_3"/>
+<entry id="112" symbol="item_2"/>
+<entry id="111" symbol="item_1"/>
+<entry field="true" id="72" symbol="hrTracking"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="18" symbol="current_heartrate"/>
+<entry field="true" id="46" symbol="LauncherIcon"/>
+<entry field="true" id="88" symbol="batch_new"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry field="true" id="53" symbol="menu_label_4"/>
+<entry field="true" id="52" symbol="menu_label_3"/>
+<entry field="true" id="55" symbol="menu_label_2"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry field="true" id="54" symbol="menu_label_1"/>
+<entry id="104" method="true" symbol="ringAlarm"/>
+<entry field="true" id="15" symbol="beta"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="108" method="true" symbol="store_max"/>
+<entry id="35" method="true" symbol="sendDismissAlarm"/>
+<entry id="8388829" method="true" symbol="onComplete"/>
+<entry id="34" method="true" symbol="sendStopTracking"/>
+<entry field="true" id="82" symbol="lastValues"/>
+<entry field="true" id="65" symbol="hrInfo"/>
+<entry id="36" method="true" symbol="sendSnoozeAlarm"/>
+<entry field="true" id="62" symbol="AGG_PERIOD"/>
+<entry field="true" id="19" symbol="timecurrent"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="107" method="true" symbol="sendNextMessage"/>
+<entry id="100" method="true" symbol="setBatchSize"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="105" method="true" symbol="doHint"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry id="40" object="true" symbol="SleepListener"/>
+<entry id="99" method="true" symbol="gatherHR"/>
+<entry field="true" id="21" symbol="messageQueue"/>
+<entry id="8388985" method="true" symbol="playTone"/>
+<entry id="41" object="true" symbol="SleepNowListener"/>
+<entry field="true" id="27" symbol="alarm_currently_active"/>
+<entry id="95" method="true" symbol="sendHRData"/>
+<entry field="true" id="16" symbol="notice"/>
+<entry field="true" id="24" symbol="deliveryPauseCount"/>
+<entry field="true" id="14" symbol="fakeTransmit"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="97" method="true" symbol="extractDataFromIncomingMessage"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="39" object="true" symbol="SleepMenuDelegate"/>
+<entry field="true" id="77" symbol="alarm_gap_duration"/>
+<entry id="47" object="true" symbol="AlarmMenu"/>
+<entry id="37" method="true" symbol="sendConfirmConnection"/>
+<entry field="true" id="8389583" symbol="alarmCount"/>
+<entry id="38" object="true" symbol="SleepApp"/>
+<entry id="43" module="true" symbol="Layouts"/>
+<entry field="true" id="81" symbol="last"/>
+<entry field="true" id="60" symbol="message"/>
+<entry id="8389939" method="true" symbol="registerForPhoneAppMessages"/>
+<entry id="93" method="true" symbol="sendStartingTracking"/>
+<entry field="true" id="26" symbol="MAX_DELIVERY_PAUSE"/>
+<entry field="true" id="73" symbol="hrValue"/>
+<entry id="30" method="true" symbol="betalog"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="25" symbol="MAX_DELIVERY_ERROR"/>
+<entry field="true" id="87" symbol="batch"/>
+<entry id="103" method="true" symbol="startAlarm"/>
+<entry id="96" method="true" symbol="handleIncomingMessage"/>
+<entry id="8388828" method="true" symbol="onError"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="92" method="true" symbol="timerCallback"/>
+<entry field="true" id="61" symbol="SAMPLE_PERIOD"/>
+<entry field="true" id="17" symbol="dataTimer"/>
+<entry id="31" method="true" symbol="enqueue"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="29" symbol="alarmViewActive"/>
+<entry id="106" method="true" symbol="stopAlarm"/>
+<entry field="true" id="89" symbol="max_sum_new"/>
+<entry id="101" method="true" symbol="checkIfAlarmScheduledForNow"/>
+<entry id="42" module="true" symbol="Menus"/>
+<entry field="true" id="8388960" symbol="heartRate"/>
+<entry field="true" id="75" symbol="timerCount"/>
+<entry field="true" id="8388936" method="true" symbol="info"/>
+<entry field="true" id="57" symbol="bkg_night"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="74" symbol="hrCount"/>
+<entry field="true" id="23" symbol="deliveryErrorCount"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435536" name="item" stackId="1" startPc="268435479"/>
+<entry endPc="268435839" name="dc" stackId="1" startPc="268435805"/>
+<entry endPc="268436065" name="dc" stackId="1" startPc="268435854"/>
+<entry endPc="268436264" name="dc" stackId="1" startPc="268436193"/>
+<entry endPc="268437228" name="dc" stackId="1" startPc="268436269"/>
+<entry endPc="268437353" name="a" stackId="1" startPc="268437258"/>
+<entry endPc="268437448" name="a" stackId="1" startPc="268437353"/>
+<entry endPc="268437816" name="freeMemRatio" stackId="2" startPc="268437460"/>
+<entry endPc="268437817" name="message" stackId="1" startPc="268437448"/>
+<entry endPc="268438142" name="msg" stackId="1" startPc="268438108"/>
+<entry endPc="268438389" name="state" stackId="1" startPc="268438142"/>
+<entry endPc="268438751" name="sensor_info" stackId="1" startPc="268438389"/>
+<entry endPc="268439566" name="toSend_new" stackId="2" startPc="268439389"/>
+<entry endPc="268439566" name="toSend" stackId="1" startPc="268439389"/>
+<entry endPc="268439616" name="HRtoSend" stackId="2" startPc="268439571"/>
+<entry endPc="268439617" name="hrAvg" stackId="1" startPc="268439567"/>
+<entry endPc="268440300" name="data" stackId="2" startPc="268439621"/>
+<entry endPc="268440301" name="mail" stackId="1" startPc="268439617"/>
+<entry endPc="268440351" name="mail" stackId="1" startPc="268440301"/>
+<entry endPc="268440583" name="info" stackId="1" startPc="268440351"/>
+<entry endPc="268441042" name="hrInfo" stackId="1" startPc="268440583"/>
+<entry endPc="268441098" name="newBatchSize" stackId="1" startPc="268441042"/>
+<entry endPc="268441182" name="timestamp" stackId="1" startPc="268441138"/>
+<entry endPc="268441584" name="i" stackId="3" startPc="268441475"/>
+<entry endPc="268441602" name="vibrateData" stackId="2" startPc="268441452"/>
+<entry endPc="268441669" name="i" stackId="4" startPc="268441635"/>
+<entry endPc="268441673" name="repeat" stackId="1" startPc="268441342"/>
+<entry endPc="268442073" name="message" stackId="1" startPc="268441933"/>
+<entry endPc="268442396" name="sum_new" stackId="3" startPc="268442092"/>
+<entry endPc="268442396" name="sum" stackId="2" startPc="268442092"/>
+<entry endPc="268442476" name="currentValues" stackId="1" startPc="268442077"/>
+<entry endPc="268442611" name="state" stackId="1" startPc="268442476"/>
+<entry endPc="268443016" name="item" stackId="1" startPc="268442706"/>
+<entry endPc="268443053" name="msg" stackId="1" startPc="268443016"/>
+<entry endPc="268443191" name="msg" stackId="1" startPc="268443154"/>
+<entry endPc="268443624" name="dc" stackId="1" startPc="268443611"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="SleepAlarmMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="SleepAlarmMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SleepAlarmDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="SleepAlarmDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="SleepAlarmDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SleepDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="SleepDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="SleepDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SleepAlarmView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="SleepAlarmView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="SleepAlarmView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="SleepAlarmView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="SleepAlarmView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SleepView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="SleepView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="SleepView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="SleepView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="SleepView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="log">
+<param id="a"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="betalog">
+<param id="a"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="enqueue">
+<param id="message"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sendResumeTracking">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sendPauseTracking">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sendStopTracking">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sendDismissAlarm">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sendSnoozeAlarm">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sendConfirmConnection">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SleepApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMsg" parent="SleepApp">
+<param id="msg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="SleepApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onHr" parent="SleepApp">
+<param id="sensor_info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="timerCallback" parent="SleepApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sendStartingTracking" parent="SleepApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sendCurrentDataAndResetBatch" parent="SleepApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sendHRData" parent="SleepApp">
+<param id="hrAvg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="handleIncomingMessage" parent="SleepApp">
+<param id="mail"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="extractDataFromIncomingMessage" parent="SleepApp">
+<param id="mail"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="gatherData" parent="SleepApp">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="gatherHR" parent="SleepApp">
+<param id="hrInfo"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setBatchSize" parent="SleepApp">
+<param id="newBatchSize"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="checkIfAlarmScheduledForNow" parent="SleepApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setAlarm" parent="SleepApp">
+<param id="timestamp"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="startAlarm" parent="SleepApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="ringAlarm" parent="SleepApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="doHint" parent="SleepApp">
+<param id="repeat"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="stopAlarm" parent="SleepApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sendNextMessage" parent="SleepApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="store_max" parent="SleepApp">
+<param id="currentValues"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="SleepApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="SleepApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SleepMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="SleepMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SleepListener">
+<param id="msg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onComplete" parent="SleepListener">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onError" parent="SleepListener">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SleepNowListener">
+<param id="msg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onComplete" parent="SleepNowListener">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onError" parent="SleepNowListener">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="AlarmMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="494" parentId="globals" symbolId="SleepDelegate" type="class"/>
+<dataEntry offset="557" parentId="globals" symbolId="SleepAlarmDelegate" type="class"/>
+<dataEntry offset="620" parentId="globals" symbolId="SleepAlarmMenuDelegate" type="class"/>
+<dataEntry offset="675" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="754" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="809" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="856" parentId="Menus" symbolId="AlarmMenu" type="class"/>
+<dataEntry offset="903" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="950" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="981" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1012" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1051" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1138" parentId="globals" symbolId="SleepView" type="class"/>
+<dataEntry offset="1249" parentId="globals" symbolId="SleepAlarmView" type="class"/>
+<dataEntry offset="1360" parentId="globals" symbolId="SleepNowListener" type="class"/>
+<dataEntry offset="1431" parentId="globals" symbolId="SleepListener" type="class"/>
+<dataEntry offset="1502" parentId="globals" symbolId="SleepMenuDelegate" type="class"/>
+<dataEntry offset="1557" parentId="globals" symbolId="SleepApp" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
